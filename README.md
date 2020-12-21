@@ -32,11 +32,11 @@ document.getElementById("per").innerHTML = "<b>Characteristic</b><br><br>June 23
 <body>  
 <br>
 <br>
-<b> Birthday: June 23</b></p>
+<p><b> Birthday: June 23</b></p>
 <br>
 <button type="button" onclick="zodiac()"><b>My Zodiac Sign</b></button>
 <p id="my">
 <p id="photo">
 <p id="per">
-</body>
+
 
